@@ -9,7 +9,12 @@ Estou em transição para a área de dados, focado em transformar grandes volume
 - 📫 Como me encontrar: [(https://www.linkedin.com/in/wilsonromao/)]
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilsonromao)](https://github.com/wilsonromao/github-readme-stats)
+[![ stats](https://github-readme-stats.vercel.app/api?username=wilsonromao)](https://github.com/wilsonromao/github-readme-stats)
+
+![wilsonromao's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilsonromao&show_icons=true&theme=radical)
+
+![Top Linguagens](github-readme-stats.vercel.app)
+
 ### 🛠️ Ferramentas e Tecnologias
 Este quadro atualiza conforme eu adiciono novos projetos:
 
@@ -25,14 +30,6 @@ Este quadro atualiza conforme eu adiciono novos projetos:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wilsonromao&theme=vision-friendly-dark&hide_border=true" alt="Meu Streak de código" />
 </p>
 
----
-
-### 📂 Meus Principais Projetos
-1.  **[Análise de Vendas em Python](link-do-repositorio)**: Limpeza de dados e visualização de tendências anuais.
-2.  **[Queries de SQL para E-commerce](link-do-repositorio)**: Extração de KPIs de um banco de dados relacional.
-3.  **[Dashboard de Finanças Pessoais](link-do-repositorio)**: Visualização criada no Power BI/Tableau.
-
----
 
 ### 🐍 Atividade Recente
 ![Atividade no GitHub](https://github-readme-stats.vercel.app/api/wakatime?username=wilsonromao&layout=compact&theme=vision-friendly-dark&hide_border=true)
