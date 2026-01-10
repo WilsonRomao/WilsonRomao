@@ -14,15 +14,15 @@ Estou em transição para a área de dados, focado em transformar grandes volume
 Este quadro atualiza conforme eu adiciono novos projetos:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonRomao&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Minhas Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonromao&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Minhas Linguagens mais usadas" />
 </p>
 
 ---
 
 ### 📈 Estatísticas do GitHub
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=WilsonRomao&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Estatísticas do GitHub" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WilsonRomao&theme=vision-friendly-dark&hide_border=true" alt="Meu Streak de código" />
+<img src="https://github-readme-stats.vercel.app/api?username=wilsonromao&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Estatísticas do GitHub" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wilsonromao&theme=vision-friendly-dark&hide_border=true" alt="Meu Streak de código" />
 </p>
 
 ---
@@ -35,4 +35,4 @@ Este quadro atualiza conforme eu adiciono novos projetos:
 ---
 
 ### 🐍 Atividade Recente
-![Atividade no GitHub](https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USUARIO&layout=compact&theme=vision-friendly-dark&hide_border=true)
+![Atividade no GitHub](https://github-readme-stats.vercel.app/api/wakatime?username=wilsonromao&layout=compact&theme=vision-friendly-dark&hide_border=true)
