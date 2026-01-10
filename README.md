@@ -9,7 +9,7 @@ Estou em transição para a área de dados, focado em transformar grandes volume
 - 📫 Como me encontrar: [(https://www.linkedin.com/in/wilsonromao/)]
 
 ---
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilsonromao)](https://github.com/wilsonromao/github-readme-stats)
 ### 🛠️ Ferramentas e Tecnologias
 Este quadro atualiza conforme eu adiciono novos projetos:
 
