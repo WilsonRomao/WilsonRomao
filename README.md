@@ -1,35 +1,35 @@
-# Olá, eu sou o Wilson Romão 👋
+# Olá, eu sou o Wilson! 👋
 
-### 📊 Aspirante a Analista / Cientista de Dados
-Estou em transição para a área de dados, focado em transformar grandes volumes de informação em insights estratégicos. Atualmente explorando técnicas de análise estatística, limpeza de dados e visualização.
+### 🚀 Estudante de Sistemas de Informação | Transição de Carreira: Saúde -> Dados
 
-- 🔭 Atualmente trabalhando em: Projetos de Análise Exploratória (EDA).
-- 🌱 Aprendendo: Python, SQL e Power BI.
-- 💬 Pergunte-me sobre: Excel Avançado, lógica e resolução de problemas.
-- 📫 Como me encontrar: [(https://www.linkedin.com/in/wilsonromao/)]
+Sou acadêmico de Sistemas de Informação com formação prévia em Enfermagem. Unindo meu conhecimento clínico com a tecnologia, busco transformar dados brutos em inteligência para a tomada de decisão, especialmente no setor de saúde digital.
 
----
-[![ stats](https://github-readme-stats.vercel.app/api?username=wilsonromao)](https://github.com/wilsonromao/github-readme-stats)
-
-![wilsonromao's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilsonromao&show_icons=true&theme=radical)
-
-![Top Linguagens](github-readme-stats.vercel.app)
-
-### 🛠️ Ferramentas e Tecnologias
-Este quadro atualiza conforme eu adiciono novos projetos:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonromao&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Minhas Linguagens mais usadas" />
-</p>
+- 🎓 **Formação:** Graduado em Enfermagem e cursando Sistemas de Informação.
+- 🔬 **Atuação Atual:** Bolsista no PET-Saúde (Saúde Digital) e voluntário no projeto BIDIS (BI e Inclusão).
+- 📍 **Localização:** Campo Grande, MS.
 
 ---
 
-### 📈 Estatísticas do GitHub
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=wilsonromao&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Estatísticas do GitHub" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wilsonromao&theme=vision-friendly-dark&hide_border=true" alt="Meu Streak de código" />
-</p>
+### 🛠 Tecnologias e Ferramentas
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+---
 
-### 🐍 Atividade Recente
-![Atividade no GitHub](https://github-readme-stats.vercel.app/api/wakatime?username=wilsonromao&layout=compact&theme=vision-friendly-dark&hide_border=true)
+### 📊 Projetos em Destaque (Em desenvolvimento 🛠️)
+*Estou construindo um portfólio focado em Ciência de Dados e Engenharia.*
+
+1. **[Dashboard de Saúde (Dengue Brasil)](link-aqui)**: Análise completa unindo dados climáticos e epidemiológicos.
+2. **[Churn Prediction](link-aqui)**: Modelo preditivo focado em retenção de clientes.
+3. **[Pipeline de ETL Automatizado](link-aqui)**: Automação de coleta e limpeza de dados públicos.
+
+---
+
+### 📫 Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilsonromao/)
+
+![Estatísticas do Wilson](https://github-readme-stats.vercel.app/api?username=WilsonRomao&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonRomao&layout=compact&theme=dracula)
