@@ -30,6 +30,6 @@ Sou acadêmico de Sistemas de Informação com formação prévia em Enfermagem.
 
 ### 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilsonromao/)
-
-![Estatísticas do Wilson](https://github-readme-stats.vercel.app/api?username=WilsonRomao&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonRomao&layout=compact&theme=dracula)
+![Status do Wilson](https://github-readme-streak-stats.herokuapp.com/?user=WilsonRomao&theme=dracula&count_private=true)
+![Estatísticas do Wilson](https://github-readme-stats.vercel.app/api?username=WilsonRomao&show_icons=true&theme=dracula&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonRomao&layout=compact&theme=dracula&count_private=true)
